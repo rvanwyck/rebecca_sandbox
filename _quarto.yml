@@ -3,7 +3,7 @@ project:
 
 book:
   title: "rebecca_sandbox"
-  author: "Norah Jones"
+  author: "Rebecca"
   date: "4/3/2024"
   chapters:
     - index.qmd
